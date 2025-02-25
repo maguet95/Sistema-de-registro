@@ -1,2 +1,2 @@
-console.log('Ejecutar el sistema');
+console.log('Ejecutar el sistema.');
 
